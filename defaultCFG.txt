@@ -1,0 +1,16 @@
+{
+    "initialised": false,
+    "username": "",
+    "volume": 100,
+    "paused": false,
+    "loopType": 2,
+    "shuffle": true,
+    "songID": 6,
+    "playlists": {
+        "main": "C:\\Users\\gilch\\Music\\music"
+    },
+    "debug": false,
+    "shuffledList": [
+
+    ]
+}
